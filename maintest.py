@@ -145,5 +145,6 @@ if __name__ == "__main__":
     widget.setFixedSize(700, 800)
     widget.show()
     print("시작")
+    print("수정")
     app.exec()
     # mainwin.savefile()
