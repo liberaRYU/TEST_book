@@ -146,5 +146,6 @@ if __name__ == "__main__":
     widget.show()
     print("시작")
     print("수정")
+    print("시작")
     app.exec()
     # mainwin.savefile()
